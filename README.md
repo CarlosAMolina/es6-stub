@@ -1,3 +1,30 @@
-This is purely a showcase to see why stubbing ES modules is hard.
+## Introduction
 
-Run the tests with `npm run test` or `npm run test:watch`.
+Example of how mock ES6 modules with:
+
+- chai
+- esm 
+- mocha 
+- sinon
+
+## Run
+
+### Tests
+
+```bash
+npm test
+```
+
+## References
+
+- Fix imports using esm
+
+  https://stackoverflow.com/questions/46487307/is-it-possible-to-use-es6-modules-in-mocha-tests
+
+- Original project
+
+  https://www.reddit.com/r/javascript/comments/6putop/babel_es6_tests_how_to_stub/
+
+  https://github.com/Robinfr/es6-stub 
+
+

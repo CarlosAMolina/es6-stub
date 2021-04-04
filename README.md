@@ -9,6 +9,12 @@ Example of how mock ES6 modules with:
 
 ## Run
 
+### First steps
+
+```bash
+npm install
+```
+
 ### Tests
 
 ```bash
